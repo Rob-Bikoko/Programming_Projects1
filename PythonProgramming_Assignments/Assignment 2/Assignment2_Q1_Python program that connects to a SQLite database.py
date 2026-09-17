@@ -3,7 +3,7 @@
 import sqlite3
 
 # Connect to SQLite database (creates the file if it doesn't exist)
-conn = sqlite3.connect("company.db")
+conn = sqlite3.connect("../company.db")
 
 # Create a cursor object
 cursor = conn.cursor()
