@@ -6,9 +6,7 @@
     </content>
     <orderEntry type="jdk" jdkName="C:\BK Works\PDP Information\Learning\CUZ\2026\Aug 1.2\Python Programming\Programming Projects\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="PythonProgramming_Assignment2" />
+    <orderEntry type="module" module-name="PythonProject" />
   </component>
-  <component name="PackageRequirementsSettings" />
-  <component name="PyDocumentationSettings" />
-  <component name="ReSTService" />
-  <component name="TestRunnerService" />
 </module>
