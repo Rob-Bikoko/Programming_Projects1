@@ -1,4 +1,4 @@
-#4.	Write a Python program that uses the random module to generate a list of 5
+#Q4.	Write a Python program that uses the random module to generate a list of 5
 #random floating-point numbers between 0 and 10
 import random
 

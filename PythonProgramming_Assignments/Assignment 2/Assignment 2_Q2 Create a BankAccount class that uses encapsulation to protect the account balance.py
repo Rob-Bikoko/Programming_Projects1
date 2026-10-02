@@ -1,3 +1,5 @@
+#Q2.	Explain the concept of encapsulation in Python. Create a BankAccount class that
+#uses encapsulation to protect the account balance from direct modification
 # BankAccount Program Using Encapsulation to Create a BankAccount class and
 # protect the account balance from direct modification
 class BankAccount:

@@ -1,3 +1,7 @@
+#Q3i.Write a simple client-server program using Python's socket module.
+#The client should connect to the server and send the message "Hello from client!".
+#The server should receive the message and print it to the console. Include basic
+#error handling for network operations.
 # This is the Server Program
 import socket
 
